@@ -87,7 +87,7 @@ Feature: Park a vehicle
 
 ```shell
 ./src/
-   Base    # Command, Queries and corresponding handlers
+   [DDD-CQRS]    # Command, Queries and corresponding handlers
    Domain # Domain model.s/structure.s and value objects
           # (classes or structures & functions if fp)
    Infra  # Implementation of repositories and every specific

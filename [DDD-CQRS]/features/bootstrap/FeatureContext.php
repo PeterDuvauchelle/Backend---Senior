@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
+use App\App\Calculator;
 use Behat\Behat\Context\Context;
-use Fulll\App\Calculator;
 
 class FeatureContext implements Context
 {
